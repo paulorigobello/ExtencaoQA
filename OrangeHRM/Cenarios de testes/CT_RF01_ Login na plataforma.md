@@ -22,6 +22,7 @@
 | :-------------------------------------------------------------- |
 | O redirecionamento para o Dashboard deve ocorrer corretamente.  |
 
+https://jam.dev/c/789b342a-0bfd-4436-a894-842293dc68b2
 ---
 
 ### Caso de Teste 02: Tentativa de login com senha incorreta.
@@ -46,6 +47,7 @@
 | :-------------------------------------------------------------- |
 | A mensagem de erro \"Invalid credentials\" deve ser exibida.    |
 
+https://jam.dev/c/ae1fec0f-9bbd-4633-aa85-e42687aca40e
 ---
 
 ### Caso de Teste 03: Tentativa de login com campos em branco.
@@ -68,3 +70,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
+
+https://jam.dev/c/6d9060e8-028a-49ea-8fa6-eb4b113824c0
