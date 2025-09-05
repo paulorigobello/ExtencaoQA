@@ -20,6 +20,7 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente a interface do Dashboard.     |
 
+https://jam.dev/c/d5f61829-9462-48ae-972d-fca3f2da3f21
 ---
 
 ### Caso de Teste 02: Verificação da exibição dos widgets do Dashboard.
@@ -43,6 +44,7 @@
 | :-------------------------------------------------------------- |
 | Todos os widgets principais devem ser visíveis e funcionais.     |
 
+https://jam.dev/c/04243d6a-07bf-4c03-9cd6-15147b1e7177
 ---
 
 ### Caso de Teste 03: Acesso ao Dashboard com sessão expirada.
